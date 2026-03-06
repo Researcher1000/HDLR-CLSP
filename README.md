@@ -1,7 +1,3 @@
----
-title: "Code Repository – Hierarchical Deep Reinforcement Learning for CLSP"
-output: html_document
----
 
 # Purpose of this repository
 
@@ -20,19 +16,20 @@ The repository allows the reviewer to:
 ---
 
 # Repository structure
-├── main.py
-├── CLSP_HDRL/
-│ ├── algo_ppo_hier.py
-│ ├── algo_ppo_hier2.py
-│ ├── buffers.py
-│ ├── dists.py
-│ ├── envs.py
-│ ├── envs2.py
-│ ├── nets.py
-│ └── init.py
-├── AMBS_SCLSP.ipynb
-├── AMBS_SCLSP_SD.ipynb
-└── README.Rmd
+
+-├── main.py
+-├── CLSP_HDRL/
+-│ ├── algo_ppo_hier.py
+-│ ├── algo_ppo_hier2.py
+-│ ├── buffers.py
+-│ ├── dists.py
+-│ ├── envs.py
+-│ ├── envs2.py
+-│ ├── nets.py
+-│ └── init.py
+-├── AMBS_SCLSP.ipynb
+-├── AMBS_SCLSP_SD.ipynb
+-└── README.Rmd
 
 
 ---
