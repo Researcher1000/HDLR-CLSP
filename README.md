@@ -30,7 +30,7 @@ It:
 
 ---
 
-## `CLSP_HDRL/`
+## `CLSP_HDRL`
 
 Core implementation of the hierarchical reinforcement learning framework.
 
