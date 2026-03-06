@@ -15,25 +15,6 @@ The repository allows the reviewer to:
 
 ---
 
-# Repository structure
-
--├── main.py
--├── CLSP_HDRL/
--│ ├── algo_ppo_hier.py
--│ ├── algo_ppo_hier2.py
--│ ├── buffers.py
--│ ├── dists.py
--│ ├── envs.py
--│ ├── envs2.py
--│ ├── nets.py
--│ └── init.py
--├── AMBS_SCLSP.ipynb
--├── AMBS_SCLSP_SD.ipynb
--└── README.Rmd
-
-
----
-
 # Main components
 
 ## `main.ipynb`
