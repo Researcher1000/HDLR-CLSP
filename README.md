@@ -6,7 +6,7 @@ output: html_document
 # Purpose of this repository
 
 This repository contains the **implementation used in the experiments of the article**  
-*“Hierarchical Deep Reinforcement Learning for Capacitated Lot-Sizing Problem: From Stochastic Multi-Item to Sequence-Dependent Setups”* :contentReference[oaicite:1]{index=1}.
+*“Hierarchical Deep Reinforcement Learning for Capacitated Lot-Sizing Problem: From Stochastic Multi-Item to Sequence-Dependent Setups”* 
 
 The code reproduces the Hierarchical Deep Reinforcement Learning (HDRL) framework proposed in the paper and the benchmark heuristics used for comparison.
 
